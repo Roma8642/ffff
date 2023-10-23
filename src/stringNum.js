@@ -1,5 +1,5 @@
 const number = 42
-const message = " - ответ на все вопросы."
+const message = " - отвеeт на все вопросы."
 function concatinaition (num,str){
     let result = num+str
     
